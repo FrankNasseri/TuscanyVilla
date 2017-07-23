@@ -1,6 +1,6 @@
 ﻿body {
 }
-div.container-fluid {
+#navbar {
     background-color:#003366;
     font-family: 'Oswald', sans-serif;
 }
@@ -15,5 +15,36 @@ a#navvy.navbar.navbar-default {
     text-decoration:solid
 }
 #navvy.navbar.navbar-default {
-    margin:0px;
+    margin: 0px;
+    padding: 0px;
+}
+/*HEADER STYLE*/
+#santanna {
+    background-image: url('Images/tuscany-villas-sant-anna.jpg');
+    background-size:cover;
     padding:0px;
+    padding-bottom:300px;
+    padding-left:100px;
+    margin-left:0px;
+    height: 422px;
+}
+#map {
+    background-image: url('Images/Versilia.jpg');
+    background-size:cover;
+    padding:0px;
+    padding-bottom:300px;
+    margin-right:0px;
+    padding-right:0px;
+    width:336px;
+    height:422px;
+}
+#sayingOne {
+    text-align:center;
+    color:white;
+    font-family: 'PT Sans', sans-serif;
+}
+#sayingTwo {
+    text-align:center;
+    color:white;
+    font-family: 'PT Sans', sans-serif;
+}
