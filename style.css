@@ -165,3 +165,9 @@ a#navvy.navbar.navbar-default {
     color:white;
     font-family: 'PT Sans', sans-serif;
 }
+/*CAROUSEL STYLING*/
+.carousel-inner {
+    margin: auto;
+    text-align: center;
+    color: #003366;
+}
