@@ -171,3 +171,10 @@ a#navvy.navbar.navbar-default {
     text-align: center;
     color: #003366;
 }
+/*STYLING FIFTH HEADER*/
+#contact {
+    background-color:#003366;
+    text-align:center;
+    color:white;
+    font-family: 'PT Sans', sans-serif;
+}
