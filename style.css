@@ -70,10 +70,12 @@ a#navvy.navbar.navbar-default {
     padding-left:50px;
     margin-right:50px;
     font-family: 'PT Sans', sans-serif;
+    color:#003366;
 }
 #placeOne {
     padding-top:50px;
     padding-left:50px;
+    color:#003366;
 }
 #buttonOne {
     background-color:#003366;
@@ -123,10 +125,12 @@ a#navvy.navbar.navbar-default {
     padding-left:50px;
     margin-right:50px;
     font-family: 'PT Sans', sans-serif;
+    color:#003366;
 }
 #placeThree {
     padding-top:50px;
     padding-left:50px;
+    color:#003366;
 }
 #buttonThree {
     background-color:#003366;
@@ -146,4 +150,11 @@ a#navvy.navbar.navbar-default {
 }
 #about {
     text-align:center;
+    color:#003366;
+}
+/*SECOND THUMBNAIL STYLING*/
+#bedding {
+    padding-left:0px;
+    margin-left:0px;
+    border:none;
 }
