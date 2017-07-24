@@ -158,3 +158,10 @@ a#navvy.navbar.navbar-default {
     margin-left:0px;
     border:none;
 }
+/*FOURTH HEADER STYLING*/
+#reviews {
+    background-color:#003366;
+    text-align:center;
+    color:white;
+    font-family: 'PT Sans', sans-serif;
+}
