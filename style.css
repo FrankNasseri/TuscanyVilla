@@ -69,6 +69,7 @@ a#navvy.navbar.navbar-default {
     padding-right:10px;
     padding-left:50px;
     margin-right:50px;
+    font-family: 'PT Sans', sans-serif;
 }
 #placeOne {
     padding-top:50px;
@@ -78,4 +79,32 @@ a#navvy.navbar.navbar-default {
     background-color:#003366;
     color:white;
     font-family: 'PT Sans', sans-serif;
+}
+/*LOCATION TWO STYLINGS*/
+#modernVilla {
+    float: left;
+    padding-top:50px;
+    width:500px;
+    height:400px;
+    padding-bottom:50px;
+    padding-right:50px;
+    margin-left:20px;
+}
+#descriptionTwo {
+    padding-right:10px;
+    padding-left:50px;
+    margin-right:50px;
+    color:white;
+    font-family: 'PT Sans', sans-serif;
+}
+#placeTwo {
+    padding-top:50px;
+    padding-left:50px;
+    color:white;
+}
+.locationTwo {
+   background-color:#003366;
+}
+#buttonTwo {
+    color:#003366;
 }
