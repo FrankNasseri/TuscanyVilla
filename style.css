@@ -140,3 +140,10 @@ a#navvy.navbar.navbar-default {
     color:white;
     font-family: 'PT Sans', sans-serif;
 }
+/*THUMBNAIL STYLINGS*/
+.preview {
+    margin:auto;
+}
+#about {
+    text-align:center;
+}
