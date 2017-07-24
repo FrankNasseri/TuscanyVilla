@@ -227,3 +227,13 @@ input[type=submit]:hover {
 #userInput {
     margin-top:-170px;
 }
+/*FOOTER STYLING*/
+#footer {
+    background-color:#003366;
+    text-align:center;
+    color:white;
+    font-family: 'PT Sans', sans-serif;
+}
+#arrow {
+    text-align:center;
+}
